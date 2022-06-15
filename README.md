@@ -20,10 +20,8 @@
 - 特定非営利活動法人ニュークリエイターオルグ 副理事長 / Vice Chairman at newCreator.org
 - 合同会社エクバタナ コーダー / Coder at Ecbatana, LLC.
 
-## ❤ 
-- [ANGERME](http://www.helloproject.com/angerme/) (idol group from Hello! Project)
-
 ## ✉ Contact
+
 - mail(at)asagakosho.jp
 - Twitter [@AsagaKosho](https://twitter.com/AsagaKosho)
 - Facebook [@KoshoAsaga](https://facebook.com/KoshoAsaga)
