@@ -16,17 +16,18 @@
 
 ## 🎓️ Educational background
 - 大阪教育大学附属高等学校天王寺校舎 / Tennoji High School Attached to Osaka Kyoiku University (2016.04-2019.03)
-- 筑波大学生命環境学群生物学類 / College of Biological Sciences, University of Tsukuba (2019.04-)
+- 筑波大学生命環境学群生物学類 / College of Biological Sciences, University of Tsukuba (2019.04-2023.03)
+- 東京大学大学院新領域創成科学研究科先端生命科学専攻 修士課程 / Master Cource at Depertment of Integrated Biosciences, Graduate School of Frontier Sciences, The University of Tokyo (2023.04-)
 
 ## 💼 Work experience
-- 特定非営利活動法人ニュークリエイターオルグ 副理事長 / Vice Chairman at newCreator.org
+- 特定非営利活動法人ニュークリエイターオルグ 副理事長 / Vice Chairman at newCreator.org (2020.01-)
 
 ## Certifications
 - 基本情報技術者試験 合格 / Fundamental Information Technology Engineer Examination (2017.10)
 - 応用情報技術者試験 合格 / Applied Information Technology Engineer Examination (2019.10)
 
 ## ✉
-- asaga(at)ccs.tsukuba.ac.jp
+- asaga(at)g.ecc.u-tokyo.ac.jp
 - mail(at)asagakosho.jp
 - Twitter [@AsagaKosho](https://twitter.com/AsagaKosho)
 - Facebook [@KoshoAsaga](https://facebook.com/KoshoAsaga)
