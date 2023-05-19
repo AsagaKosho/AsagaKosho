@@ -21,10 +21,13 @@
 
 ## 💼 Work experience
 - 特定非営利活動法人ニュークリエイターオルグ 副理事長 / Vice Chairman at newCreator.org (2020.01-)
+- 合同会社NANTKA 代表社員 / President at NANTKA CO. (2022.10-)
+- 株式会社Palames 取締役副社長COO / COO at Palames, Inc. (2023.04-)
 
 ## Certifications
 - 基本情報技術者試験 合格 / Fundamental Information Technology Engineer Examination (2017.10)
 - 応用情報技術者試験 合格 / Applied Information Technology Engineer Examination (2019.10)
+- 学芸員資格 / Curator (2023.03)
 
 ## ✉
 - asaga(at)g.ecc.u-tokyo.ac.jp
