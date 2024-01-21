@@ -27,6 +27,7 @@
 ## Certifications
 - 基本情報技術者試験 合格 / Fundamental Information Technology Engineer Examination (2017.10)
 - 応用情報技術者試験 合格 / Applied Information Technology Engineer Examination (2019.10)
+- データベーススペシャリスト試験　合格 / Database Specialist Examination (2023.10)
 - 学芸員資格 / Curator (2023.03)
 
 ## ✉
