@@ -1,13 +1,6 @@
 # 浅賀巧匠 / Asaga Kosho 
 
 ## 🌱 I'm interested in...
-- Biology
-  - Bioinformatics
-  - Genomics
-  - Phylogenetics
-  - Molecular Biology
-  - Neuroscience
-  - Immunology
 - Informatics
   - Database
   - Computer Network
